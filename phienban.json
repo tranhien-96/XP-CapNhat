@@ -1,0 +1,24 @@
+{
+  "dinh_dang": 1,
+  "cap_nhat_luc": "2026-11-13",
+  "cong_cu": {
+    "XP_VatLieuXSMP": {
+      "ten": "XP Vật liệu XSMP",
+      "phien_ban": "2.12.1",
+      "ngay": "2026-11-12",
+      "link_tai": "https://github.com/tranhien-96/XP-CapNhat/releases/latest",
+      "noi_dung": [
+        "Bản đang dùng."
+      ]
+    },
+    "XP_VatLieuCorona": {
+      "ten": "XP Vật liệu Corona",
+      "phien_ban": "1.3.1",
+      "ngay": "2026-11-12",
+      "link_tai": "https://github.com/tranhien-96/XP-CapNhat/releases/latest",
+      "noi_dung": [
+        "Bản đang dùng."
+      ]
+    }
+  }
+}
